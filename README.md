@@ -39,11 +39,4 @@ Clash 是一款开源的代理工具，适用于多种操作系统，包括 Wind
    - 若需访问国内服务，建议选择“Rule”模式。
    - 全局代理可通过“Global”模式开启，但可能会导致访问国内服务变慢。
 
-## 其他
-
-- Clash 官方仓库：[https://github.com/Dreamacro/clash](https://github.com/Dreamacro/clash)
-- Clash 配置文件生成工具：[https://clash.razord.top/](https://clash.razord.top/)
-
----
-
-**注意**：使用 Clash 代理时请遵循相关法律法规。
+**注意**：使用 Clash 代理时请遵循相关法律法规，请仅用于知识传播和科研学习。传递正能量。
