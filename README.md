@@ -39,4 +39,13 @@ Clash 是一款开源的代理工具，适用于多种操作系统，包括 Wind
    - 若需访问国内服务，建议选择“Rule”模式。
    - 全局代理可通过“Global”模式开启，但可能会导致访问国内服务变慢。
 
+## 代理推荐
+
+1. **lmy**  
+   [非常快且稳定的梯子，但是按时间购买，用不完作废：](([https://lmlink01.lmsub.pro/#/register?code=Raf8O1RF](https://lmlink01.lmsub.pro/#/register?code=Raf8O1RF))
+1. **mojie**  
+   [按量购买，限量使用不限时，适用于偶尔使用：](([https://lmlink01.lmsub.pro/#/register?code=Raf8O1RF](https://www.mojie.me/#/register?code=HlrjMqPI))
+   
 **注意**：使用 Clash 代理时请遵循相关法律法规，请仅用于知识传播和科研学习。传递正能量。
+
+
